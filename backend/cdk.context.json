@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"google": {
+			"clientSecretName": "GoogleClientSecret2",
+			"clientId": "701169559878-598n2r6vn0k8mjmekng0jk0hfndhhj5s.apps.googleusercontent.com",
+			"callbackUrls": ["http://localhost:3000/"],
+			"logoutUrls": ["http://localhost:3000/"]
+		}
+	}
+}
